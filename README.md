@@ -31,7 +31,6 @@ Cara membuka file website SIMHO
  3. Copy folder **simho** kedalam folder **htdocs** ( XAMPP ) 
  4. Silahkan buka localhost/simho
  5. Akan muncul halaman login ( username : admin, password : admin ) 
-Give an example
 
 ## Dokumentasi
 
